@@ -1,10 +1,17 @@
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.Set;
 
-public class Main {
+public class Assignment1 {
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        Main manager = new Main();
+        Assignment1 manager = new Assignment1();
         manager.start();
     }
 
