@@ -1,0 +1,1 @@
+# Global_data_tek
